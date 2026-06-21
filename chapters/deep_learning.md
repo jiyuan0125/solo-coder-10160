@@ -9,17 +9,17 @@
 
 - **ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations (AAAI 2020)**
   - Ekagra Ranjan, Soumya Sanyal, Partha Pratim Talukdar
-  - [[Paper]](https://arxiv.org/abs/1911.07979)
+  - [[Paper]](https://arxiv.org/abs/1911.07979v3)
   - [[Python Reference]](https://github.com/malllabiisc/ASAP)
 
 - **Benchmarking Graph Neural Networks (arXiv 2020)**
   - Vijay Prakash Dwivedi, Chaitanya K. Joshi, Thomas Laurent, Yoshua Bengio, Xavier Bresson
-  - [[Paper]](https://arxiv.org/abs/2003.00982)
+  - [[Paper]](https://arxiv.org/abs/2003.00982v5)
   - [[Python Reference]](https://github.com/graphdeeplearning/benchmarking-gnns)
 
 - **Bridging the Gap Between Spectral and Spatial Domains in Graph Neural Networks (arXiv 2020)**
   - Muhammet Balcilar, Guillaume Renton, Pierre Heroux, Benoit Gaüzère, Sebastien Adam, Paul Honeine
-  - [[Paper]](https://arxiv.org/abs/2003.11702)
+  - [[Paper]](https://arxiv.org/abs/2003.11702v1)
   - [[Python Reference]](https://github.com/balcilar/Spectral-Designed-Graph-Convolutions)
 
 - **Building Attention and Edge Convolution Neural Networks for Bioactivity and Physical-Chemical Property Prediction (bioRxiv 2020)**
@@ -49,7 +49,7 @@
 
 - **Improving Attention Mechanism in Graph Neural Networks via Cardinality Preservation (IJCAI 2020)**
   - Shuo Zhang, Lei Xie
-  - [[Paper]](https://arxiv.org/abs/1907.02204)
+  - [[Paper]](https://arxiv.org/abs/1907.02204v4)
   - [[Python Reference]](https://github.com/zetayue/CPA)
 
 - **InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization (ICLR 2020)**
@@ -79,7 +79,7 @@
 
 - **Principal Neighbourhood Aggregation for Graph Nets (arXiv 2020)**
   - Gabriele Corso, Luca Cavalleri, Dominique Beaini, Pietro Liò, Petar Veličković
-  - [[Paper]](https://arxiv.org/abs/2004.05718)
+  - [[Paper]](https://arxiv.org/abs/2004.05718v5)
   - [[Python Reference]](https://github.com/lukecavabarrett/pna)
 
 - **Second-Order Pooling for Graph Neural Networks (IEEE Transactions on Pattern Analysis and Machine Intelligence 2020)**
@@ -89,7 +89,7 @@
 
 - **Segmented Graph-Bert for Graph Instance Modeling (arXiv 2020)**
   - Jiawei Zhang
-  - [[Paper]](https://arxiv.org/abs/2002.03283)
+  - [[Paper]](https://arxiv.org/abs/2002.03283v1)
   - [[Python Reference]](https://github.com/jwzhanggy/SEG-BERT)
 
 - **Strategies for Pre-training Graph Neural Networks (ICLR 2020)**
@@ -141,7 +141,7 @@
 
 - **Discriminative Structural Graph Classification (arXiv 2019)**
   - Younjoo Seo, Andreas Loukas, Nathanaël Perraudin
-  - [[Paper]](https://arxiv.org/abs/1905.13422)
+  - [[Paper]](https://arxiv.org/abs/1905.13422v2)
   - [[Python Reference]](https://github.com/youngjoo-epfl/DSGC)
 
 - **Distance Metric Learning for Graph Structured Data (KDD 2019)**
@@ -166,28 +166,28 @@
 
 - **Fast Training of Sparse Graph Neural Networks on Dense Hardware (arXiv 2019)**
   - Matej Balog, Bart van Merriënboer, Subhodeep Moitra, Yujia Li, Daniel Tarlow
-  - [[Paper]](https://arxiv.org/abs/1906.11786)
+  - [[Paper]](https://arxiv.org/abs/1906.11786v1)
   - [[Python Reference]](https://github.com/anonymous-authors-iclr2020/fast_training_of_sparse_graph_neural_networks_on_dense_hardware)
 
 - **Graph Classification with 2D Convolutional Neural Networks (ICANN 2019)**
   - Antoine J.-P. Tixier, Giannis Nikolentzos, Polykarpos Meladianos and Michalis Vazirgiannis
-  - [[Paper]](https://arxiv.org/abs/1708.02218)
+  - [[Paper]](https://arxiv.org/abs/1708.02218v4)
   - [[Python Reference]](https://github.com/Tixierae/graph_2D_CNN)
 
 - **Graph Classification with Automatic Topologically-Oriented Learning (arXiv 2019)**
   - Martin Royer, Frédéric Chazal, Clément Levrard, Yuichi Ike, Yuhei Umeda
-  - [[Paper]](https://arxiv.org/pdf/1909.13472.pdf)
+  - [[Paper]](https://arxiv.org/pdf/1909.13472v3.pdf)
   - [[Python Reference]](https://github.com/martinroyer/atol)
   - [[Python Reference]](https://github.com/giotto-ai/graph_classification_with_atol)
 
 - **Graph Convolutional Networks with EigenPooling (KDD 2019)**
   - Yao Ma, Suhang Wang, Charu C Aggarwal, Jiliang Tang
-  - [[Paper]](https://arxiv.org/pdf/1904.13107.pdf)
+  - [[Paper]](https://arxiv.org/pdf/1904.13107v2.pdf)
   - [[Python Reference]](https://github.com/alge24/eigenpooling)
 
 - **Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels (NeurIPS 2019)**
   - Simon S. Du, Kangcheng Hou, Barnabás Póczos, Ruslan Salakhutdinov, Ruosong Wang, Keyulu Xu
-  - [[Paper]](https://arxiv.org/abs/1905.13192)
+  - [[Paper]](https://arxiv.org/abs/1905.13192v2)
   - [[Python Reference]](https://github.com/KangchengHou/gntk)
 
 - **Graph Star Net for Generalized Multi-Task Learning (arXiv 2019)**
@@ -212,12 +212,12 @@
 
 - **How Powerful are Graph Neural Networks? (ICLR 2019)**
   - Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka
-  - [[Paper]](https://arxiv.org/abs/1810.00826)
+  - [[Paper]](https://arxiv.org/abs/1810.00826v3)
   - [[Python Reference]](https://github.com/weihua916/powerful-gnns)
 
 - **IPC: A Benchmark Data Set for Learning with Graph-Structured Data (ICML LRGSD 2019)**
   - Patrick Ferber, Tengfei Ma, Siyu Huo, Jie Chen, Michael Katz
-  - [[Paper]](https://arxiv.org/abs/1905.06393)
+  - [[Paper]](https://arxiv.org/abs/1905.06393v1)
   - [[Python Reference]](https://github.com/IBM/IPC-graph-data)
 
 - **K-hop Graph Neural Networks (arXiv 2019)**
@@ -227,12 +227,12 @@
 
 - **Learning Aligned-Spatial Graph Convolutional Networks for Graph Classification (ECML-PKDD 2019)**
   - Lu Bai, Yuhang Jiao, Lixin Cui, Edwin R. Hancock
-  - [[Paper]](https://arxiv.org/abs/1904.04238)
+  - [[Paper]](https://arxiv.org/abs/1904.04238v2)
   - [[Python Reference]](https://github.com/baiuoy/ASGCN_ECML-PKDD2019)
 
 - **Mapping Images to Scene Graphs with Permutation-Invariant Structured Prediction (NeurIPS 2019)**
   - Roei Herzig, Moshiko Raboh, Gal Chechik, Jonathan Berant, Amir Globerson
-  - [[Paper]](https://arxiv.org/abs/1802.05451)
+  - [[Paper]](https://arxiv.org/abs/1802.05451v4)
   - [[Python Reference]](https://github.com/shikorab/SceneGraph)
 
 - **Molecule Property Prediction Based on Spatial Graph Embedding (Journal of Cheminformatics Models 2019)**
@@ -247,17 +247,17 @@
 
 - **Relational Pooling for Graph Representations (ICML 2019)**
   - Ryan L. Murphy, Balasubramaniam Srinivasan, Vinayak Rao, Bruno Ribeiro
-  - [[Paper]](https://arxiv.org/abs/1903.02541)
+  - [[Paper]](https://arxiv.org/abs/1903.02541v2)
   - [[Python Reference]](https://github.com/PurdueMINDS/RelationalPooling)
 
 - **Self-Attention Graph Pooling (ICML 2019)**
   - Junhyun Lee, Inyeop Lee, Jaewoo Kang
-  - [[Paper]](https://arxiv.org/abs/1904.08082)
+  - [[Paper]](https://arxiv.org/abs/1904.08082v4)
   - [[Python Reference]](https://github.com/inyeoplee77/SAGPool)
 
 - **Semi-Supervised Graph Classification: A Hierarchical Graph Perspective (WWW 2019)**
   - Jia Li, Yu Rong, Hong Cheng, Helen Meng, Wenbing Huang, and Junzhou Huang
-  - [[Paper]](https://arxiv.org/pdf/1904.05003.pdf)
+  - [[Paper]](https://arxiv.org/pdf/1904.05003v1.pdf)
   - [[Python Reference]](https://github.com/benedekrozemberczki/SEAL-CI)
 
 - **Spectral Clustering with Graph Neural Networks for Graph Pooling (arXiv 2019)**
@@ -267,7 +267,7 @@
 
 - **Symmetrical Graph Neural Network for Quantum Chemistry, with Dual R/K Space (arXiv 2019)**
   - Shuqian Ye, Jiechun Liang, Rulin Liu, Xi Zhu
-  - [[Paper]](https://arxiv.org/abs/1912.07256)
+  - [[Paper]](https://arxiv.org/abs/1912.07256v1)
   - [[Python Reference]](https://github.com/yippp/SY-GNN)
 
 - **Understanding Isomorphism Bias in Graph Data Sets (arXiv 2019)**
@@ -277,7 +277,7 @@
 
 - **Universal Self-Attention Network for Graph Classification (arXiv 2019)**
   - Dai Quoc Nguyen, Tu Dinh Nguyen, and Dinh Phung
-  - [[Paper]](https://arxiv.org/abs/1909.11855)
+  - [[Paper]](https://arxiv.org/abs/1909.11855v13)
   - [[Python Reference]](https://github.com/daiquocnguyen/Graph-Transformer)
 
 - **Unsupervised Inductive Graph-Level Representation Learning via Graph-Graph Proximity (IJCAI 2019)**
@@ -320,12 +320,12 @@
 
 - **Contextual Graph Markov Model: A Deep and Generative Approach to Graph Processing (ICML 2018)**
   - Davide Bacciu, Federico Errica, and Alessio Micheli
-  - [[Paper]](https://arxiv.org/pdf/1805.10636.pdf)
+  - [[Paper]](https://arxiv.org/pdf/1805.10636v2.pdf)
   - [[Python Reference]](https://github.com/diningphil/CGMM)
 
 - **Deeply Learning Molecular Structure-Property Relationships Using Graph Attention Neural Network (arXiv 2018)**
   - Seongok Ryu, Jaechang Lim, and Woo Youn Kim
-  - [[Paper]](https://arxiv.org/abs/1805.10988)
+  - [[Paper]](https://arxiv.org/abs/1805.10988v3)
   - [[Python Reference]](https://github.com/SeongokRyu/Molecular-GAT)
 
 - **Edge Attention-based Multi-Relational Graph Convolutional Networks (arXiv 2018)**
@@ -340,7 +340,7 @@
 
 - **Graph Capsule Convolutional Neural Networks (ICML 2018)**
   - Saurabh Verma and Zhi-Li Zhang
-  - [[Paper]](https://arxiv.org/abs/1805.08090)
+  - [[Paper]](https://arxiv.org/abs/1805.08090v4)
   - [[Python Reference]](https://github.com/vermaMachineLearning/Graph-Capsule-CNN-Networks)
 
 - **Graph Classification Using Structural Attention (KDD 2018)**
@@ -350,7 +350,7 @@
 
 - **Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation (NeurIPS 2018)**
   - Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, and Jure Leskovec
-  - [[Paper]](https://arxiv.org/abs/1806.02473)
+  - [[Paper]](https://arxiv.org/abs/1806.02473v3)
   - [[Python Reference]](https://github.com/bowenliu16/rl_graph_generation)
 
 - **Hierarchical Graph Representation Learning with Differentiable Pooling (NeurIPS 2018)**
@@ -360,7 +360,7 @@
 
 - **Kernel Graph Convolutional Neural Networks (ICANN 2018)**
   - Giannis Nikolentzos, Polykarpos Meladianos, Antoine Jean-Pierre Tixier, Konstantinos Skianis, Michalis Vazirgiannis
-  - [[Paper]](https://arxiv.org/pdf/1710.10689.pdf)
+  - [[Paper]](https://arxiv.org/pdf/1710.10689v2.pdf)
   - [[Python Reference]](https://github.com/giannisnik/cnn-graph-classification)
 
 - **Learning Graph Distances with Message Passing Neural Networks (ICPR 2018)**
@@ -380,7 +380,7 @@
 
 - **MolGAN: An Implicit Generative Model for Small Molecular Graphs (ICML 2018)**
   - Nicola De Cao and Thomas Kipf
-  - [[Paper]](https://arxiv.org/pdf/1805.11973.pdf)
+  - [[Paper]](https://arxiv.org/pdf/1805.11973v2.pdf)
   - [[Python Reference]](https://github.com/nicola-decao/MolGAN)
 
 - **Residual Gated Graph ConvNets (ICLR 2018)**
@@ -390,12 +390,12 @@
 
 - **SGR: Self-Supervised Spectral Graph Representation Learning (KDD DLDay 2018)**
   - Anton Tsitsulin, Davide Mottin, Panagiotis Karras, Alex Bronstein and Emmanuel Müller
-  - [[Paper]](https://arxiv.org/abs/1807.02839)
+  - [[Paper]](https://arxiv.org/abs/1811.06237v1)
   - [[Python Reference]](http://mott.in/publications/others/sgr/)
 
 - **Three-Dimensionally Embedded Graph Convolutional Network for Molecule Interpretation (arXiv 2018)**
   - Hyeoncheol Cho and Insung. S. Choi
-  - [[Paper]](https://arxiv.org/abs/1811.09794)
+  - [[Paper]](https://arxiv.org/abs/1811.09794v4)
   - [[Python Reference]](https://github.com/blackmints/3DGCN)
 
 ### 2017
@@ -407,12 +407,12 @@
 
 - **Deep Learning with Topological Signatures (NIPS 2017)**
   - Christoph Hofer, Roland Kwitt, Marc Niethammer, and Andreas Uhl
-  - [[Paper]](https://arxiv.org/abs/1707.04041)
+  - [[Paper]](https://arxiv.org/abs/1707.04041v3)
   - [[Python Reference]](https://github.com/c-hofer/nips2017)
 
 - **Deriving Neural Architectures from Sequence and Graph Kernels (ICML 2017)**
   - Tao Lei, Wengong Jin, Regina Barzilay, and Tommi Jaakkola
-  - [[Paper]](https://arxiv.org/abs/1705.09037)
+  - [[Paper]](https://arxiv.org/abs/1705.09037v3)
   - [[Python Reference]](https://github.com/taolei87/icml17_knn)
 
 - **Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs (CVPR 2017)**
@@ -427,7 +427,7 @@
 
 - **Semi-Supervised Learning of Hierarchical Representations of Molecules Using Neural Message Passing (arXiv 2017)**
   - Hai Nguyen, Shin-ichi Maeda, Kenta Oono
-  - [[Paper]](https://arxiv.org/pdf/1711.10168.pdf)
+  - [[Paper]](https://arxiv.org/pdf/1711.10168v2.pdf)
   - [[Python Reference]](https://github.com/pfnet-research/hierarchical-molecular-learning)
 
 ### 2016
@@ -439,14 +439,14 @@
 
 - **Gated Graph Sequence Neural Networks (ICLR 2016)**
   - Yujia Li, Daniel Tarlow, Marc Brockschmidt, Richard Zemel
-  - [[Paper]](https://arxiv.org/abs/1511.05493)
+  - [[Paper]](https://arxiv.org/abs/1511.05493v4)
   - [[Python TensorFlow]](https://github.com/bdqnghi/ggnn.tensorflow)
   - [[Python PyTorch]](https://github.com/JamesChuanggg/ggnn.pytorch)
   - [[Python Reference]](https://github.com/YunjaeChoi/ggnnmols)
 
 - **Learning Convolutional Neural Networks for Graphs (ICML 2016)**
   - Mathias Niepert, Mohamed Ahmed, Konstantinos Kutzkov
-  - [[Paper]](https://arxiv.org/abs/1605.05273)
+  - [[Paper]](https://arxiv.org/abs/1605.05273v4)
   - [[Python Reference]](https://github.com/tvayer/PSCN)
 
 ### 2015

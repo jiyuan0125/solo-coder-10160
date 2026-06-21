@@ -19,7 +19,7 @@
 
 - **Learning Metrics for Persistence-Based Summaries and Applications for Graph Classification (NeurIPS 2019)**
   - Qi Zhao, Yusu Wang
-  - [[Paper]](https://arxiv.org/abs/1904.12189)
+  - [[Paper]](https://arxiv.org/abs/1904.12189v2)
   - [[Code]](https://github.com/topology474/WKPI)
 
 - **Optimal Transport for Structured Data with Application on Graphs (ICML 2019)**
@@ -36,14 +36,14 @@
 
 - **Message Passing Graph Kernels (2018)**
   - Giannis Nikolentzos, Michalis Vazirgiannis
-  - [[Paper]](https://arxiv.org/pdf/1808.02510.pdf)
+  - [[Paper]](https://arxiv.org/pdf/1808.02510v1.pdf)
   - [[Python Reference]](https://github.com/giannisnik/message_passing_graph_kernels)
 
 ### 2017
 
 - **Global Weisfeiler-Lehman Graph Kernels (ICDM 2017)**
   - Christopher Morris, Kristian Kersting and Petra Mutzel
-  - [[Paper]](https://arxiv.org/pdf/1703.02379.pdf)
+  - [[Paper]](https://arxiv.org/pdf/1703.02379v3.pdf)
   - [[C++ Reference]](https://github.com/chrsmrrs/glocalwl)
 
 - **Kernel Method for Persistence Diagrams via Kernel Embedding and Weight Factor (JMLR 2017)**
@@ -64,12 +64,12 @@
 
 - **Faster Kernels for Graphs with Continuous Attributes (ICDM 2016)**
   - Christopher Morris, Nils M. Kriege, Kristian Kersting and Petra Mutzel
-  - [[Paper]](https://arxiv.org/abs/1610.00064)
+  - [[Paper]](https://arxiv.org/abs/1610.00064v1)
   - [[Python Reference]](https://github.com/chrsmrrs/hashgraphkernel)
 
 - **On Valid Optimal Assignment Kernels and Applications to Graph Classification (NIPS 2016)**
   - Nils Kriege, Pierre-Louis Giscard, Richard Wilson
-  - [[Paper]](https://arxiv.org/pdf/1606.01141.pdf)
+  - [[Paper]](https://arxiv.org/pdf/1606.01141v3.pdf)
   - [[Java Reference]](https://github.com/nlskrg/optimal_assignment_kernels)
 
 - **Propagation Kernels: Efficient Graph Kernels From Propagated Information (Machine Learning 2016)**
@@ -79,7 +79,7 @@
 
 - **The Multiscale Laplacian Graph Kernel (NIPS 2016)**
   - Risi Kondor and Horace Pan
-  - [[Paper]](https://arxiv.org/abs/1603.06186)
+  - [[Paper]](https://arxiv.org/abs/1603.06186v2)
   - [[C++ Reference]](https://github.com/horacepan/MLGkernel)
 
 ### 2015
@@ -113,7 +113,7 @@
 
 - **Subgraph Matching Kernels for Attributed Graphs (ICML 2012)**
   - Nils Kriege and Petra Mutzel
-  - [[Paper]](https://arxiv.org/abs/1206.6483)
+  - [[Paper]](https://arxiv.org/abs/1206.6483v1)
   - [[Python Reference]](https://github.com/mockingbird2/GraphKernelBenchmark)
 
 - **Two New Graphs Kernels in Chemoinformatics (Pattern Recognition Letters 2012)**

@@ -4,7 +4,7 @@
 
 - **Characteristic Functions on Graphs: Birds of a Feather, from Statistical Descriptors to Parametric Models (CIKM 2020)**
   - Benedek Rozemberczki and Rik Sarkar
-  - [[Paper]](https://arxiv.org/abs/2005.07959)
+  - [[Paper]](https://arxiv.org/abs/2005.07959v2)
   - [[Python Karate Club]](https://github.com/benedekrozemberczki/karateclub/)
   - [[Python Reference]](https://github.com/benedekrozemberczki/FEATHER/)
 
@@ -15,21 +15,21 @@
 
 - **Just SLaQ When You Approximate: Accurate Spectral Distances for Web-Scale Graphs (WWW 2020)**
   - Anton Tsitsulin, Marina Munkhoeva, and Bryan Perozzi
-  - [[Paper]](https://arxiv.org/abs/2003.01282)
+  - [[Paper]](https://arxiv.org/abs/2003.01282v1)
   - [[Python Reference]](https://github.com/google-research/google-research/tree/master/graph_embedding/slaq)
 
 ### 2019
 
 - **A Simple Yet Effective Baseline for Non-Attribute Graph Classification (ICLR RLPM 2019)**
   - Chen Cai and Yusu Wang
-  - [[Paper]](https://arxiv.org/abs/1811.03508)
+  - [[Paper]](https://arxiv.org/abs/1811.03508v3)
   - [[Python Reference]](https://github.com/Chen-Cai-OSU/LDP)
 
 ### 2018
 
 - **A Simple Baseline Algorithm for Graph Classification (Relational Representation Learning NeurIPS 2018)**
   - Nathan de Lara and Edouard Pineau
-  - [[Paper]](https://arxiv.org/pdf/1810.09155.pdf)
+  - [[Paper]](https://arxiv.org/pdf/1810.09155v2.pdf)
   - [[Python Karate Club]](https://github.com/benedekrozemberczki/karateclub)
   - [[Python Reference]](https://github.com/edouardpineau/A-simple-baseline-algorithm-for-graph-classification)
 
@@ -40,7 +40,7 @@
 
 - **NetLSD: Hearing the Shape of a Graph (KDD 2018)**
   - Anton Tsitsulin, Davide Mottin, Panagiotis Karras, Alex Bronstein, and Emmanuel Müller
-  - [[Paper]](https://arxiv.org/abs/1805.10712)
+  - [[Paper]](https://arxiv.org/abs/1805.10712v2)
   - [[Python Reference]](https://github.com/xgfs/NetLSD)
   - [[Python Karate Club]](https://github.com/benedekrozemberczki/karateclub/)
 
@@ -63,5 +63,5 @@
 
 - **NetSimile: A Scalable Approach to Size-Independent Network Similarity (arXiv 2012)**
   - Michele Berlingerio, Danai Koutra, Tina Eliassi-Rad, and Christos Faloutsos
-  - [[Paper]](https://arxiv.org/abs/1209.2684)
+  - [[Paper]](https://arxiv.org/abs/1209.2684v1)
   - [[Python Reference]](https://github.com/kristyspatel/Netsimile)

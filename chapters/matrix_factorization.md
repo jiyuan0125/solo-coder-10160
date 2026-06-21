@@ -18,12 +18,12 @@
 
 - **Anonymous Walk Embeddings (ICML 2018)**
   - Sergey Ivanov and Evgeny Burnaev
-  - [[Paper]](https://arxiv.org/pdf/1805.11921.pdf)
+  - [[Paper]](https://arxiv.org/pdf/1805.11921v3.pdf)
   - [[Python Reference]](https://github.com/nd7141/AWE)
 
 - **Hierarchical Stochastic Graphlet Embedding for Graph-based Pattern Recognition (Pattern Recognition 2018)**
   - Anjan Dutta, Pau Riba, Josep Lladós, and Alicia Fornés
-  - [[Paper]](https://arxiv.org/abs/1807.02839)
+  - [[Paper]](https://arxiv.org/abs/1807.02839v2)
   - [[Matlab Reference]](https://github.com/priba/hierarchicalSGE)
 
 - **Learning Graph Representation via Frequent Subgraphs (SDM 2018)**
@@ -35,7 +35,7 @@
 
 - **Graph2vec (MLGWorkshop 2017)**
   - Annamalai Narayanan, Mahinthan Chandramohan, Lihui Chen, Yang Liu, and Santhoshkumar Saminathan
-  - [[Paper]](https://arxiv.org/abs/1707.05005)
+  - [[Paper]](https://arxiv.org/abs/1707.05005v1)
   - [[Python Karate Club]](https://github.com/benedekrozemberczki/karateclub/)
   - [[Python High Performance]](https://github.com/benedekrozemberczki/graph2vec)
   - [[Python Reference]](https://github.com/MLDroid/graph2vec_tf)
@@ -49,7 +49,7 @@
 
 - **Subgraph2Vec (MLGWorkshop 2016)**
   - Annamalai Narayanan, Mahinthan Chandramohan, Lihui Chen, Yang Liu, and Santhoshkumar Saminathan
-  - [[Paper]](https://arxiv.org/abs/1606.08928)
+  - [[Paper]](https://arxiv.org/abs/1606.08928v1)
   - [[Python High Performance]](https://github.com/MLDroid/subgraph2vec_gensim)
   - [[Python Reference]](https://github.com/MLDroid/subgraph2vec_tf)
 
