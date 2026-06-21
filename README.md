@@ -1,5 +1,5 @@
 # Awesome Graph Classification
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://img.shields.io/badge/Awesome-List-brightgreen.svg?style=flat-square)](https://github.com/benedekrozemberczki/awesome-graph-classification)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ![License](https://img.shields.io/github/license/benedekrozemberczki/awesome-graph-classification.svg?color=blue)
 [![repo size](https://img.shields.io/github/repo-size/benedekrozemberczki/awesome-graph-classification.svg)](https://github.com/benedekrozemberczki/awesome-graph-classification/archive/master.zip) [![benedekrozemberczki](https://img.shields.io/twitter/follow/benrozemberczki?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=benrozemberczki)

@@ -31,7 +31,7 @@
   - Nathan de Lara and Edouard Pineau
   - [[Paper]](https://arxiv.org/pdf/1810.09155.pdf)
   - [[Python Karate Club]](https://github.com/benedekrozemberczki/karateclub)
-  - [[Python]](https://github.com/edouardpineau/A-simple-baseline-algorithm-for-graph-classification)
+  - [[Python Reference]](https://github.com/edouardpineau/A-simple-baseline-algorithm-for-graph-classification)
 
 - **Multi-Graph Multi-Label Learning Based on Entropy (Entropy 2018)**
   - Zixuan Zhu and Yuhai Zhao
@@ -64,4 +64,4 @@
 - **NetSimile: A Scalable Approach to Size-Independent Network Similarity (arXiv 2012)**
   - Michele Berlingerio, Danai Koutra, Tina Eliassi-Rad, and Christos Faloutsos
   - [[Paper]](https://arxiv.org/abs/1209.2684)
-  - [[Python]](https://github.com/kristyspatel/Netsimile)
+  - [[Python Reference]](https://github.com/kristyspatel/Netsimile)
