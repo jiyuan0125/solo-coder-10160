@@ -300,8 +300,8 @@
 - **An End-to-End Deep Learning Architecture for Graph Classification (AAAI 2018)**
   - Muhan Zhang, Zhicheng Cui, Marion Neumann and Yixin Chen
   - [[Paper]](https://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf)
-  - [[Python TensorFlow Reference]](https://github.com/muhanzhang/DGCNN)
-  - [[Python PyTorch Reference]](https://github.com/muhanzhang/pytorch_DGCNN)
+  - [[Python TensorFlow]](https://github.com/muhanzhang/DGCNN)
+  - [[Python PyTorch]](https://github.com/muhanzhang/pytorch_DGCNN)
   - [[Matlab Reference]](https://github.com/muhanzhang/DGCNN)
   - [[Python Alternative]](https://github.com/leftthomas/DGCNN)
   - [[Python Alternative]](https://github.com/hitlic/DGCNN-tensorflow)
@@ -346,7 +346,7 @@
 - **Graph Classification Using Structural Attention (KDD 2018)**
   - John Boaz Lee, Ryan Rossi, and Xiangnan Kong
   - [[Paper]](http://ryanrossi.com/pubs/KDD18-graph-attention-model.pdf)
-  - [[Python PyTorch Reference]](https://github.com/benedekrozemberczki/GAM)
+  - [[Python PyTorch]](https://github.com/benedekrozemberczki/GAM)
 
 - **Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation (NeurIPS 2018)**
   - Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, and Jure Leskovec
@@ -386,7 +386,7 @@
 - **Residual Gated Graph ConvNets (ICLR 2018)**
   - Xavier Bresson and Thomas Laurent
   - [[Paper]](https://arxiv.org/pdf/1711.07553v2.pdf)
-  - [[Python PyTorch Reference]](https://github.com/xbresson/spatial_graph_convnets)
+  - [[Python PyTorch]](https://github.com/xbresson/spatial_graph_convnets)
 
 - **SGR: Self-Supervised Spectral Graph Representation Learning (KDD DLDay 2018)**
   - Anton Tsitsulin, Davide Mottin, Panagiotis Karras, Alex Bronstein and Emmanuel Müller
@@ -440,8 +440,8 @@
 - **Gated Graph Sequence Neural Networks (ICLR 2016)**
   - Yujia Li, Daniel Tarlow, Marc Brockschmidt, Richard Zemel
   - [[Paper]](https://arxiv.org/abs/1511.05493)
-  - [[Python TensorFlow Reference]](https://github.com/bdqnghi/ggnn.tensorflow)
-  - [[Python PyTorch Reference]](https://github.com/JamesChuanggg/ggnn.pytorch)
+  - [[Python TensorFlow]](https://github.com/bdqnghi/ggnn.tensorflow)
+  - [[Python PyTorch]](https://github.com/JamesChuanggg/ggnn.pytorch)
   - [[Python Reference]](https://github.com/YunjaeChoi/ggnnmols)
 
 - **Learning Convolutional Neural Networks for Graphs (ICML 2016)**
