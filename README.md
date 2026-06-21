@@ -1,5 +1,5 @@
 # Awesome Graph Classification
-[![Awesome](https://img.shields.io/badge/Awesome-List-brightgreen.svg?style=flat-square)](https://github.com/benedekrozemberczki/awesome-graph-classification)
+[![Awesome](https://raw.githubusercontent.com/benedekrozemberczki/awesome-graph-classification/master/media/badge.svg)](https://github.com/benedekrozemberczki/awesome-graph-classification)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ![License](https://img.shields.io/github/license/benedekrozemberczki/awesome-graph-classification.svg?color=blue)
 [![repo size](https://img.shields.io/github/repo-size/benedekrozemberczki/awesome-graph-classification.svg)](https://github.com/benedekrozemberczki/awesome-graph-classification/archive/master.zip) [![benedekrozemberczki](https://img.shields.io/twitter/follow/benrozemberczki?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=benrozemberczki)
@@ -26,6 +26,7 @@ Similar collections about [community detection](https://github.com/benedekrozemb
 6. [Contributing Guidelines](https://github.com/benedekrozemberczki/awesome-graph-classification/blob/master/contributing.md)
 7. [Code of Conduct](https://github.com/benedekrozemberczki/awesome-graph-classification/blob/master/code-of-conduct.md)
 8. [Atlas Illustration](https://github.com/benedekrozemberczki/awesome-graph-classification/blob/master/atlas.png)
+9. [Awesome Badge](https://github.com/benedekrozemberczki/awesome-graph-classification/blob/master/media/badge.svg)
 
 -----------------------------------------------
 
